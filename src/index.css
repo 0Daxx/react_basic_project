@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+button{
+  margin: 10px;
+  padding: 10px;
+  color: aliceblue;
+  background-color: rgb(60, 60, 196);
+  border-radius: 5px;
+}
