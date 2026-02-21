@@ -20,4 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 - Todo 
 - Weather 
   - API , fetch , await 
+- Fetch Github Profile 
+  - LEARNED : standard font case to use is camelCase i.e  
+  const [userDetail, setUserDetail] = useState({});
 - 
